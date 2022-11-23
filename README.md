@@ -1,4 +1,6 @@
-# Ex.No: 3 Develop a simple application to play and control the audio file in android studio.
+### EX NO : 03
+### DATE  : 11.10.2022
+# <p align="center"> Develop a simple application to play and control the audio file in android studio </p>
 
 ## AIM:
 
@@ -125,6 +127,17 @@ public class MainActivity extends AppCompatActivity {
         app:layout_constraintVertical_bias="0.486" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 ## OUTPUT:
 ![Screenshot_12](https://user-images.githubusercontent.com/75235455/201598570-cebf0501-ec93-4c1a-910f-785c97a004a6.png)
 
